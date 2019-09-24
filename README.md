@@ -5,7 +5,7 @@ Arlexnet es un proyecto pensado para el aprendizaje del Desarrollo de aplicacion
 
 Además de los archivos básicos para el MVC, el proyecto incluye un formulario de contacto funcional que se adaptará más adelante para ser incluido en los archivos MVC básicos.
  
-La carpeta "contactform" debe colocarse dentro del directorio raíz, `DOCUMENT_ROOT`.
+La carpeta "contactform" en "ContactForm subProject" debe colocarse dentro del directorio raíz, `DOCUMENT_ROOT`.
 
 El nombre de la base de datos es "contactdb"
 
