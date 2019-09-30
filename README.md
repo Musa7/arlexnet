@@ -18,9 +18,18 @@ Para inicio de sesión de administrador http://localhost/contactform/admin     u
 username : admin 
 Password : Test@123
 
+
+Pero luego se usará el formulario en el host virtual y la ruta es: /var/www/arlexnet.com/contactform/index.php
+
+y para inicio de sesión de administrador /var/www/arlexnet.com/contactform/admin/index.php     utilice:
+
+username : admin 
+Password : Test@123
+
+
 El formulario es una funcionalidad importante de este proyecto.
 
-Las otras funcionalidades se incluirán más adelante.
+Las otras funcionalidades y cambios se incluirán más adelante.
 
 
 # INTRODUCCIÓN
